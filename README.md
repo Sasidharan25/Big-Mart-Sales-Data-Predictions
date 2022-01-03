@@ -1,5 +1,5 @@
-# Big-Mart-Sales-Data-Predictions
-**Type of Problem : Regression**
+# BIG MART DATASTET MODELING
+**TYPE OF PROBLEM : REGRESSION**
 
 **PROBLEM STATEMENT**
 
